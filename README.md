@@ -102,6 +102,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
+<img width="582" height="290" alt="image" src="https://github.com/user-attachments/assets/03cf15a1-364f-4ce3-9a80-35b23a979873" />
 
 
 
